@@ -3,7 +3,7 @@ Wellington City Council need a stand-alone website for the Botanic Garden, to at
 
 ## Development
 
-**Next.js** <br>
-**React** <br>
-**TypeScript** <br>
-**Emotion CSS** <br>
+* **Next.js** <br>
+* **React** <br>
+* **TypeScript** <br>
+* **Emotion CSS** <br>
